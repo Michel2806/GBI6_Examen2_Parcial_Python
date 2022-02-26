@@ -1,1 +1,1 @@
-# GBI6_Examen_Parcial_Python
+# GBI_Examen-python
